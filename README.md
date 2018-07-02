@@ -1,7 +1,6 @@
-<div align="center">
-  # Algorithm Practice
-  Solutions to timed coding challenges on Code Fights
-</div>
+# Algorithm Practice
+
+Solutions to timed coding challenges on Code Fights
 
 ## decodeString
 Given an encoded string, return its corresponding decoded string.
