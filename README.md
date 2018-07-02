@@ -1,4 +1,4 @@
-### Algorithm Practice
+# Algorithm Practice
 <div align="center">Solutions to timed coding challenges on Code Fights</div>
 
 ## decodeString
