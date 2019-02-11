@@ -34,3 +34,9 @@ Boggle is a popular word game in which players attempt to find words in sequence
 Given a two-dimensional array board that represents the character cells of the Boggle board and an array of unique strings words, find all the possible words from words that can be formed on the board.
 
 Note that in Boggle when you're finding a word, you can move from a cell to any of its 8 neighbors, but you can't use the same cell twice in one word.
+
+## rotateImage
+
+Note: Try to solve this task in-place (with O(1) additional memory), since this is what you'll be asked to do during an interview.
+
+You are given an n x n 2D matrix that represents an image. Rotate the image by 90 degrees (clockwise).
